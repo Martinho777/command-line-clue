@@ -15,4 +15,5 @@
 The Blacksmith left an anonymous tip about unusual activity at the library.
 New information suggests returning to the school.
 A security guard mentions hearing noises coming from the classrooms.
+Go back and check the cafe in the shops.
 Location of the crime is still unknown - the room must have been empty when it happened...
