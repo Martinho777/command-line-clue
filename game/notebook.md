@@ -14,4 +14,5 @@
 *Use this space to record your findings and deductions...*
 The Blacksmith left an anonymous tip about unusual activity at the library.
 New information suggests returning to the school.
+A security guard mentions hearing noises coming from the classrooms.
 Location of the crime is still unknown - the room must have been empty when it happened...
