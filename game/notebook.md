@@ -3,7 +3,7 @@
 ## Suspects
 - [X] The Florist
 - [ ] The Innkeeper
-- [ ] The Shopkeeper
+- [x] The Shopkeeper
 
 ## Weapons
 - [X] Bronze Trophy
