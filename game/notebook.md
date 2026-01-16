@@ -7,7 +7,7 @@
 
 ## Weapons
 - [X] Bronze Trophy
-- [ ] Wooden Box
+- [X] Wooden Box
 - [ ] Old Key
 
 ## Notes
