@@ -1,12 +1,12 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Florist
+- [X] The Florist
 - [ ] The Innkeeper
 - [ ] The Shopkeeper
 
 ## Weapons
-- [ ] Bronze Trophy
+- [X] Bronze Trophy
 - [ ] Wooden Box
 - [ ] Old Key
 
@@ -17,5 +17,5 @@ New information suggests returning to the school.
 A security guard mentions hearing noises coming from the classrooms.
 Go back and check the cafe in the shops.
 Go to the greenhouse in the Residential Area.
-Go to the greenhouse in the Residential Area.
+Go to the greenhouse in the Residential Area.   
 Location of the crime is still unknown - the room must have been empty when it happened...
